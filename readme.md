@@ -6,3 +6,4 @@ della biblioteca registrano prestiti e restituzioni.
 - **Backend**: Node.js, Express 5, MongoDB (Mongoose), JWT
 - **Frontend**: Vue 3, Vite
 - **Test**: Jest, Supertest
+ciao
